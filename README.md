@@ -1,0 +1,1 @@
+Learning terraform with hosting static index.html page alongside a yt tutorial
